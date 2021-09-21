@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
  echo"Nama saya Rizki Lutfiandi
  Saya tinggal di daerah pelosok
  olah raga yang saya sukai adalah
- Volly Ball";
+ Volly Ball ";
  }
 }
