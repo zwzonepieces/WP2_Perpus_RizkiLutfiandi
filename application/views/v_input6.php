@@ -18,7 +18,7 @@
     }
 </style>
 
-<body>
+<body style="background-color: aquamarine;">
     <fieldset>
         <legend align="center">Input Transaksi</legend>
 

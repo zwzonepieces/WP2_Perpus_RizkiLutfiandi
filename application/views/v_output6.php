@@ -18,7 +18,7 @@
     }
 </style>
 
-<body>
+<body style="background-color: aquamarine;">
     <fieldset>
         <legend align="center">Output Transaksi</legend>
 
