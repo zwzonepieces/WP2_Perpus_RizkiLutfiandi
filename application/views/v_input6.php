@@ -39,7 +39,7 @@
                     <td>:</td>
                     <td>
                         <input type="text" name="nhp" id="nhp">
-                        <?= form_error('nama','<br><span style="color:red;
+                        <?= form_error('nhp','<br><span style="color:red;
                         ">','</span>'); ?>
                     </td>
                 </tr>
